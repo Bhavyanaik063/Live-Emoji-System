@@ -53,14 +53,13 @@ git clone https://github.com/Bhavyanaik063/Live-Emoji-System.git
 ## Install dependencies:
 **bash**
 * pip install -r requirements.txt
-* Use code with caution.
+* inference.py
 
 ## 🏃 How to Run
 *  **Ensure your webcam is connected and accessible.**
 * Run the main inference script:
 **bash**
 * python inference.py
-* Use code with caution.
  
 ## 📄 License
-* This project is licensed under the MIT License. See the LICENSE file for details. (pp. 1, 5) 
+* This project is licensed under the MIT License. See the LICENSE file for details.  
