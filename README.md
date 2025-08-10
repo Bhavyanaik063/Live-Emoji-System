@@ -40,27 +40,27 @@ The "Live-Emoji-System" project is an innovative solution designed to automate e
 *   **Libraries:** OpenCV, Dlib, TensorFlow/PyTorch/Keras (as used in development)
 
 ##🚀 Installation & Setup
-Clone the repository:
-bash
+*  **Clone the repository:**
+**bash**
 git clone https://github.com/Bhavyanaik063/Live-Emoji-System.git
 cd Live-Emoji-System
 
 ##Create a virtual environment (recommended):
-bash
+**bash**
 python -m venv venv
 source venv/bin/activate  # On Windows: `venv\Scripts\activate`
 
 ##Install dependencies:
-bash
+**bash**
 pip install -r requirements.txt
 Use code with caution.
 
 ##🏃 How to Run
-Ensure your webcam is connected and accessible.
-Run the main inference script:
-bash
+*  **Ensure your webcam is connected and accessible.**
+* Run the main inference script:
+**bash**
 python inference.py
 Use code with caution.
  
 ##📄 License
-This project is licensed under the MIT License. See the LICENSE file for details. (pp. 1, 5) 
+* This project is licensed under the MIT License. See the LICENSE file for details. (pp. 1, 5) 
