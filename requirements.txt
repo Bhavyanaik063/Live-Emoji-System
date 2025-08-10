@@ -1,0 +1,4 @@
+tensorflow==2.10.0  # Or the specific version you used
+opencv-python==4.8.0.76 # Or the specific version you used
+mediapipe==0.10.9   # Or the specific version you used
+numpy==1.24.4
